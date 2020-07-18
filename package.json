@@ -2,6 +2,7 @@
   "name": "rwios-04-lp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://skunkwerks2020.github.io/rwios-01-lp",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

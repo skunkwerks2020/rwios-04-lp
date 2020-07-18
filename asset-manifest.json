@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rwios-04-lp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rwios-04-lp/static/js/main.88d30e98.chunk.js",
+    "main.js.map": "/rwios-04-lp/static/js/main.88d30e98.chunk.js.map",
+    "runtime-main.js": "/rwios-04-lp/static/js/runtime-main.39ab63fb.js",
+    "runtime-main.js.map": "/rwios-04-lp/static/js/runtime-main.39ab63fb.js.map",
+    "static/js/2.e2da1249.chunk.js": "/rwios-04-lp/static/js/2.e2da1249.chunk.js",
+    "static/js/2.e2da1249.chunk.js.map": "/rwios-04-lp/static/js/2.e2da1249.chunk.js.map",
+    "index.html": "/rwios-04-lp/index.html",
+    "precache-manifest.b2556d5809623b5ebb8cda4d7dcc4586.js": "/rwios-04-lp/precache-manifest.b2556d5809623b5ebb8cda4d7dcc4586.js",
+    "service-worker.js": "/rwios-04-lp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rwios-04-lp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e2da1249.chunk.js.LICENSE.txt": "/rwios-04-lp/static/js/2.e2da1249.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rwios-04-lp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ab63fb.js",
+    "static/js/2.e2da1249.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.88d30e98.chunk.js"
+  ]
+}

@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        Edit v0.1
+        <br/>
       </header>
     </div>
   );

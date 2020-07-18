@@ -20,6 +20,7 @@ function App() {
         </a>
         Edit v0.1
         <br/>
+        Edit v0.2
       </header>
     </div>
   );

@@ -91,7 +91,7 @@ function TopHeaderContainer (){
         <Link variant="button" color="textPrimary" href="#" className={classes.link}>
           Login
         </Link>
-        <Button href="#" color="primary" variant="outlined" className={classes.link}>
+        <Button href="http://localhost:3006/#/signup" color="primary" variant="outlined" className={classes.link}>
           Sign Up
         </Button>
       </nav>

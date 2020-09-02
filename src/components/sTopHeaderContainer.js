@@ -88,7 +88,7 @@ function TopHeaderContainer (){
         <Link variant="button" color="textPrimary" href="#pricing" className={classes.link}>
           Pricing
         </Link>
-        <Link variant="button" color="textPrimary" href="/#/login" className={classes.link}>
+        <Link variant="button" color="textPrimary" href="/login" className={classes.link}>
           Login
         </Link>
         <Button href="http://app.rtcxpress.com/#/signup" color="primary" variant="outlined" className={classes.link}>

@@ -85,10 +85,10 @@ function TopHeaderContainer (){
         Inventory OS
       </Typography>
       <nav>
-        <Link variant="button" color="textPrimary" href="#" className={classes.link}>
+        <Link variant="button" color="textPrimary" href="#pricing" className={classes.link}>
           Pricing
         </Link>
-        <Link variant="button" color="textPrimary" href="#" className={classes.link}>
+        <Link variant="button" color="textPrimary" href="http://app.rtcxpress.com/#/login" className={classes.link}>
           Login
         </Link>
         <Button href="http://app.rtcxpress.com/#/signup" color="primary" variant="outlined" className={classes.link}>

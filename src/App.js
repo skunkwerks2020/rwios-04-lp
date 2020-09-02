@@ -68,6 +68,7 @@ function App() {
           </CardContainerFullWidth>
 
 
+     <a name="#pricing"></a>
      <PricingContainer/>
 
 

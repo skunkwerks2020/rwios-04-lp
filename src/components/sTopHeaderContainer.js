@@ -88,10 +88,10 @@ function TopHeaderContainer (){
         <Link variant="button" color="textPrimary" href="#pricing" className={classes.link}>
           Pricing
         </Link>
-        <Link variant="button" color="textPrimary" href="http://app.inventory-os.com/#/login" className={classes.link}>
+        <Link variant="button" color="textPrimary" href="https://app.inventory-os.com/#/login" className={classes.link}>
           Login
         </Link>
-        <Button href="http://app.inventory-os.com/#/signup" color="primary" variant="outlined" className={classes.link}>
+        <Button href="https://app.inventory-os.com/#/signup" color="primary" variant="outlined" className={classes.link}>
           Sign Up
         </Button>
       </nav>

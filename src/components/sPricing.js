@@ -80,6 +80,7 @@ const tiers = [
     description: ['10 users included', '2 GB of storage', 'Help center access', 'Email support'],
     buttonText: 'Sign up for free',
     buttonVariant: 'outlined',
+    buttonUrl: 'https://app.inventory-os.com/#/signup',
   },
   {
     title: 'Pro',
@@ -93,6 +94,7 @@ const tiers = [
     ],
     buttonText: 'Get started',
     buttonVariant: 'contained',
+    buttonUrl: 'https://app.inventory-os.com/#/signup',
   },
   {
     title: 'Enterprise',
@@ -105,6 +107,7 @@ const tiers = [
     ],
     buttonText: 'Contact us',
     buttonVariant: 'outlined',
+    buttonUrl: 'https://app.inventory-os.com/#/signup',
   },
 ];
 const footers = [
@@ -196,8 +199,8 @@ export default function Pricing() {
                   </ul>
                 </CardContent>
                 <CardActions>
-                  <Button fullWidth variant={tier.buttonVariant} color="primary">
-                    {tier.buttonText}
+                  <Button fullWidth variant={tier.buttonVariant} color="primary" href="https://app.inventory-os.com/#/signup">
+                    {tier.buttonText} and other
                   </Button>
                 </CardActions>
               </Card>

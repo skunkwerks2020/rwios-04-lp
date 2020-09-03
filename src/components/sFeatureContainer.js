@@ -76,7 +76,7 @@ const classes = useStyles();
             </span>
             <br/>
             <br/>
-            <Button variant="contained" color="primary" className='button'>
+            <Button variant="contained" color="primary" className='button' href="https://app.inventory-os.com/#/signup">
               Get Started Now for Free
             </Button>
             <br/>

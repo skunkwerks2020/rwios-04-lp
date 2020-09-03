@@ -112,7 +112,7 @@ function TopHeaderContainer (){
     <br/>
     <ul className="actions">
       <li>
-      <Button variant="contained" color="primary">
+      <Button href="https://app.inventory-os.com/#/signup" variant="contained" color="primary">
         Get Started Now for Free
       </Button>
       </li>
